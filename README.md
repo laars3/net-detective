@@ -8,6 +8,8 @@
 - https://github.com/sanjaybalaji014/LINDEF-Lightweight-Real-Time-Network-Intrusion-Detection-and-Containment-Framework 
 - https://github.com/cstub/ml-ids
 - https://arxiv.org/pdf/2506.19877v1 -> paper that uses CICIDS2017 and compares how different ML models "perform" in anomaly detection, could be useful when deciding architecture
+- https://onlinelibrary.wiley.com/doi/10.1155/2023/6048087
+- https://github.com/lisa-lt/CICFlowMeter
 
 ### Datasets ###
 - CICIDS2017 / CSE-CIC-IDS2018
