@@ -1,3 +1,7 @@
 .idea/*
 data/
 dataset/
+
+.venv/
+
+.ipynb_checkpoints/
